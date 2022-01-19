@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/pasimoes/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasimoes&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasimoes&show_icons=true&theme=dracula" />
 </a>
 <a href="https://twitter.com/pasimoes/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasimoes&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasimoes&theme=dracula&layout=compact&hide=html,ruby" />
 </a>
 
 <!--
