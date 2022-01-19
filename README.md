@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💬 Ask me about Cloud Native, Microservice, Event Mesh, Java...
+- 📫 How to reach me: my DM is open! 
+
 <a href="https://twitter.com/pasimoes/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasimoes&count_private=true&show_icons=true&theme=dracula" />
 </a>
