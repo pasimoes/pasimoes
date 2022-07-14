@@ -1,3 +1,6 @@
+[![Linkedin](https://img.shields.io/badge/-Linkedin-2867B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pasimoes)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pasimoes)
+
 ### Hi there 👋
 
 - 💬 Ask me about Cloud Native, Microservice, Event Mesh, Java...
