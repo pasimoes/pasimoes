@@ -10,7 +10,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pasimoes&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://twitter.com/pasimoes/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasimoes&count_private=true&theme=dracula&layout=compact&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasimoes&count_private=true&theme=dracula&layout=compact&show_icons=true" />
 </a>
 
 <!--
