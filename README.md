@@ -27,9 +27,6 @@ As JUG leader at SouJava, I use to help SouJava JUG with initiatives like:
 
 - [SouJava Talks](https://youtube.com/playlist?list=PLOQgznExm9iuBu-RBT7v0ph8xIUy1MNxK) at [SouJava's Youtube Channel](https://youtube.com/soujava);
 
-
-In my [Youtube channel](https://www.youtube.com/@pasimoes) and [TwichTV channel](https://www.twitch.tv/pasimoes) channels, I'm always looking forward to participating and sharing relevant content about software development and career content that would help the community members to improve their skills and o course, their careers too. I'm open to speaking or participating in any initiatives that could help developers with such subjects.
-
 Thank you for keeping up! :thumbsup:
 
 If you need anything, please, feel free to drop me a message on my social media ;)
