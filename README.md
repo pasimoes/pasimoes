@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![Visitors](https://api.visitorbadge.io/api/combined?path=pasimoes%2Fpasimoes&label=Visitors%20Daily%2FTotal&labelColor=%23697689&countColor=%23dce775)](https://visitorbadge.io/status?path=pasimoes%2Fpasimoes)
 # Hi, I'm Paulo Alberto Simões <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- :computer: I'm currently working as a Cloud Engineer at [Oracle](https://www.oracle.com/);
+- :computer: I'm an ex-Cloud Engineer at [Oracle](https://www.oracle.com/);
 - :coffee: JUG leader at [SouJava](https://github.com/soujava) (The Java Users Society), one of the world's largest Java User Groups Community;
 - :sunglasses: I'm always looking for helping developers with the best programming practices;
 - 🌱 I'm always learning to improve my skills and to be the better person that I can be!
